@@ -1,0 +1,1 @@
+scoreboard objectives remove DEAD_SPEC

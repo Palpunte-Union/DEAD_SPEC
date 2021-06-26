@@ -1,0 +1,1 @@
+scoreboard objectives add DEAD_SPEC deathCount
